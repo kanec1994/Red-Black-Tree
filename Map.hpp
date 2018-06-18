@@ -8,7 +8,7 @@
 #include <cassert>
 #include <stdexcept>
 
-namespace cs540
+namespace kanec1994
 {
 
 template<typename Key_T, typename Mapped_T>
